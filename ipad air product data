@@ -1,0 +1,170 @@
+{
+    "data": {
+        "node": "standard/home/shop_ipad/family/ipad_air/select",
+        "currency": "TWD",
+        "area": "shop",
+        "mvt": [],
+        "products": [
+            {
+                "sku": "MYFM2",
+                "price": {
+                    "fullPrice": 18900.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi 64GB - Space Gray"
+            },
+            {
+                "sku": "MYFT2",
+                "price": {
+                    "fullPrice": 23900.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi 256GB - Space Gray"
+            },
+            {
+                "sku": "MYFN2",
+                "price": {
+                    "fullPrice": 18900.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi 64GB - Silver"
+            },
+            {
+                "sku": "MYFW2",
+                "price": {
+                    "fullPrice": 23900.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi 256GB - Silver"
+            },
+            {
+                "sku": "MYFP2",
+                "price": {
+                    "fullPrice": 18900.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi 64GB - Rose Gold"
+            },
+            {
+                "sku": "MYFX2",
+                "price": {
+                    "fullPrice": 23900.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi 256GB - Rose Gold"
+            },
+            {
+                "sku": "MYFR2",
+                "price": {
+                    "fullPrice": 18900.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi 64GB - Green"
+            },
+            {
+                "sku": "MYG02",
+                "price": {
+                    "fullPrice": 23900.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi 256GB - Green"
+            },
+            {
+                "sku": "MYFQ2",
+                "price": {
+                    "fullPrice": 18900.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi 64GB - Sky Blue"
+            },
+            {
+                "sku": "MYFY2",
+                "price": {
+                    "fullPrice": 23900.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi 256GB - Sky Blue"
+            },
+            {
+                "sku": "MYGW2",
+                "price": {
+                    "fullPrice": 23200.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi + Cellular 64GB - Space Gray"
+            },
+            {
+                "sku": "MYH22",
+                "price": {
+                    "fullPrice": 28200.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi + Cellular 256GB - Space Gray"
+            },
+            {
+                "sku": "MYGX2",
+                "price": {
+                    "fullPrice": 23200.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi + Cellular 64GB - Silver"
+            },
+            {
+                "sku": "MYH42",
+                "price": {
+                    "fullPrice": 28200.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi + Cellular 256GB - Silver"
+            },
+            {
+                "sku": "MYGY2",
+                "price": {
+                    "fullPrice": 23200.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi + Cellular 64GB - Rose Gold"
+            },
+            {
+                "sku": "MYH52",
+                "price": {
+                    "fullPrice": 28200.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi + Cellular 256GB - Rose Gold"
+            },
+            {
+                "sku": "MYH12",
+                "price": {
+                    "fullPrice": 23200.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi + Cellular 64GB - Green"
+            },
+            {
+                "sku": "MYH72",
+                "price": {
+                    "fullPrice": 28200.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi + Cellular 256GB - Green"
+            },
+            {
+                "sku": "MYH02",
+                "price": {
+                    "fullPrice": 23200.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi + Cellular 64GB - Sky Blue"
+            },
+            {
+                "sku": "MYH62",
+                "price": {
+                    "fullPrice": 28200.00
+                },
+                "category": "ipad",
+                "name": "10.9-inch iPad Air Wi-Fi + Cellular 256GB - Sky Blue"
+            }
+        ]
+    }
+}
